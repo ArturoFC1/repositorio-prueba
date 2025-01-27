@@ -1,4 +1,4 @@
-# repositorio-pruebas
+# repositorio-prueba
 Primer repositorio creado en GitHub
 
 ## descripcion
