@@ -1,1 +1,1 @@
-este es un codigo de prueba y eroor echo por arturo fc
+este es un codigo de prueba y eroor echo por arturo figaro
